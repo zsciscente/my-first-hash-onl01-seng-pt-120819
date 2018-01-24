@@ -8,8 +8,6 @@
 
 ## Instructions 
 
-Hi!!!
-
 ### Challenge I: Instantiating Hashes
 
 In the `my_hash` method, use the literal constructor to set a variable called `your_hash` equal to a hash with key/value pairs of your choice. 
