@@ -20,7 +20,7 @@ Remember, key/value pairs are associative. It doesn't make sense to have a key/v
 
 In the `shipping_manifest` method, set a variable called `the_manifest` equal to a hash.
 
-Fill that hash with key/value pairs that describe the following information then return the hash: 
+Fill that hash with key/value pairs that describe the following information and then return the hash: 
 
 Inventory | Quantity
 ------------ | -------------
